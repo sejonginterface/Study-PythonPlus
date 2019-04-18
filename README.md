@@ -1,7 +1,7 @@
 # Study Python API
 > 인터페이스 신입생을 위한 파이썬 API 가지고 놀기 강의
 
-![image](https://user-images.githubusercontent.com/32615702/56342383-d11f9a80-61f2-11e9-89ef-f8eea2d23c08.png)
+![image](https://user-images.githubusercontent.com/32615702/56342535-3b383f80-61f3-11e9-879d-e4586c376dfc.png)
 
 ---
 
