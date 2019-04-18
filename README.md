@@ -3,8 +3,6 @@
 
 ![image](https://user-images.githubusercontent.com/32615702/56342535-3b383f80-61f3-11e9-879d-e4586c376dfc.png)
 
----
-
 ### 강의자료
     목차:
      ├─ 작업환경 구축하기.pptx
@@ -20,4 +18,3 @@
 ### 소스코드
     목차:
     
----
